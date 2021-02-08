@@ -1,0 +1,6 @@
+C:\Users\kostr\source\repos\kostroEugenLikovi\kostroEugenLikovi\bin\Debug\kostroEugenLikovi.exe.config
+C:\Users\kostr\source\repos\kostroEugenLikovi\kostroEugenLikovi\bin\Debug\kostroEugenLikovi.exe
+C:\Users\kostr\source\repos\kostroEugenLikovi\kostroEugenLikovi\bin\Debug\kostroEugenLikovi.pdb
+C:\Users\kostr\source\repos\kostroEugenLikovi\kostroEugenLikovi\obj\Debug\kostroEugenLikovi.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenLikovi\kostroEugenLikovi\obj\Debug\kostroEugenLikovi.exe
+C:\Users\kostr\source\repos\kostroEugenLikovi\kostroEugenLikovi\obj\Debug\kostroEugenLikovi.pdb
